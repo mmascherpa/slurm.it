@@ -1,4 +1,4 @@
-const CACHE_NAME = 'slurm-cache-v2.0.0';
+const CACHE_NAME = 'slurm-cache-2025-10-22T23-25-34';
 const urlsToCache = [
     '/',
     '/index.html',
@@ -8,7 +8,12 @@ const urlsToCache = [
     '/icons/icon-512x512.png',
     '/libs/enc-uint8array.min.js',
     '/libs/aes_crypt.min.js',
-    // CDN dependencies for crypto (CORS)
+    '/assets/index-eL0q99sD.js',
+    '/assets/index-admiXztN.css',
+    '/assets/materialdesignicons-webfont-6eb_lmTU.woff2',
+    '/assets/materialdesignicons-webfont-D15t_tsC.woff',
+    '/assets/materialdesignicons-webfont-e5j8FT_3.ttf',
+    '/assets/materialdesignicons-webfont-kq_ClZaA.eot',
     'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/core.min.js',
     'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/enc-utf16.min.js'
 ];
